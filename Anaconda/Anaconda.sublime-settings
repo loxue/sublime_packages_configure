@@ -234,7 +234,7 @@
     /*
         Set to false to disable Anaconda linting entirely.
     */
-    "anaconda_linting": true,
+    "anaconda_linting": false,
 
     /*
         Sets the linting behaviour for anaconda:
